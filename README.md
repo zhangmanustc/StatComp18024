@@ -110,7 +110,7 @@ print(microbenchmark::microbenchmark(
 ```
 **Analysis of results:**
 **First**:
-According to the reults above,we can find that chisq-square statistics of the function we constructed is 0.04762132,which is less than $\chi_{0.95}(4)$\qquad,and the p-value of chisq.test() is  0.2243>0.05,so two functions obtain the same result to accept the null hypothesis.
+According to the reults above,we can find that chisq-square statistics of the function we constructed is 0.04762132,and the p-value of chisq.test() is  0.2243>0.05,so two functions obtain the same result to accept the null hypothesis.
 **Second**:
 According to the time comparison,we can find the function we constructed is much quicker than chisq.test().
 
