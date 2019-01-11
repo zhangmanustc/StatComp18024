@@ -10,7 +10,7 @@ __StatComp18024__ is a simple R package developed to present the homework of sta
 3.chisq_test2:Make a faster version of chisq.test() when the input is two numeric vectors with no missing values.
 
 
-##Antithetic.method
+__Antithetic.method__
 
 The source R code for _Antithetic.method_ is as follows:
 
@@ -36,13 +36,12 @@ n <- 1000
 Antithetic.method(sigma, n)
 ```
  Analysis of results:
-We conclude that the percent reduction in variance of
-$\frac{X+X'}{2}$\qquad,compared with $\frac{X+X'}{2}$\qquad for independent $X_{1},X_{2}$\qquad is 97.15%,so the antithetic variables method to variance reducing is of significant effect.
+We conclude that the percent reduction in variance, compared with X+X'/2qquad for independent X1+X2/2 is 97.15%,so the antithetic variables method to variance reducing is of significant effect.
 
 
 
 
-##Betacdf
+__Betacdf__
 
 The source R code for _Betacdf_ is as follows:
 ```{r}
@@ -70,7 +69,7 @@ From the results above,the estimates(left) are very close to the actual value(ri
 
 
 
-##chisq_test2
+__chisq_test2__
 The source R code for _chisq_test2_ is as follows:
 
 ```{r,eval=FALSE}
