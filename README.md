@@ -64,6 +64,7 @@ print( c(estimate,returnedvalues) )#compare the eatimates with returned values
 
 
 ```
+
 Analysis of results:
 From the results above,the estimates(left) are very close to the actual value(right),they differ from the fourth decimal place,thus the estimation accuracy is very high.
 
