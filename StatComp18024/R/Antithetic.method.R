@@ -6,7 +6,7 @@
 #' @examples
 #' \dontrun{
 #' Antithetic.method(1, 1000)
-#' @export
+#' }@export
 Antithetic.method<- function(sigma, n) {#construct funtions to generate samples from  Rayleigh distribution
   X <- X_ <- numeric(n)
   for (i in 1:n) {
