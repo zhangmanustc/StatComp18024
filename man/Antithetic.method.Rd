@@ -20,5 +20,5 @@ The antithetic variables method to variance reducing in samples from a Rayleigh 
 \examples{
 \dontrun{
 Antithetic.method(1, 1000)
-}@export
+}
 }

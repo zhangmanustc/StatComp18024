@@ -7,7 +7,18 @@ Author: Man Zhang
 Maintainer: Man Zhang <manzhang@mail.ustc.edu.cn>
 Description: The package is a collection of three functions
 License: GPL (>= 2)
-Imports: microbenchmark, knitr, rmarkdown, parallel, RANN, MASS, boot, bootstrap, energy, Ball, devtools
+Imports: 
+    microbenchmark,
+    knitr,
+    rmarkdown,
+    MASS,
+    RANN,
+    Ball,
+    boot,
+    bootstrap,
+    devtools,
+    energy,
+    parallel
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
